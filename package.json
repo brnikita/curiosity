@@ -1,0 +1,23 @@
+{
+  "name": "curiosity",
+  "version": "0.0.1",
+  "description": "test task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brnikita/curiosity.git"
+  },
+  "author": "Bragin N.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brnikita/curiosity/issues"
+  },
+  "homepage": "https://github.com/brnikita/curiosity",
+  "dependencies": {
+    "express": "^4.9.8",
+    "underscore": "^1.7.0"
+  }
+}
